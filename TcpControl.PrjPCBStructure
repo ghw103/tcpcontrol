@@ -1,6 +1,0 @@
-Record=TopLevelDocument|FileName=tcpcontrol.SchDoc
-Record=SheetSymbol|SourceDocument=tcpcontrol.SchDoc|Designator=U_cpu|SchDesignator=U_cpu|FileName=cpu.SchDoc|SymbolType=Normal|RawFileName=cpu.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=SheetSymbol|SourceDocument=tcpcontrol.SchDoc|Designator=U_Ethernet|SchDesignator=U_Ethernet|FileName=Ethernet.SchDoc|SymbolType=Normal|RawFileName=Ethernet.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=SheetSymbol|SourceDocument=tcpcontrol.SchDoc|Designator=U_lelay|SchDesignator=U_lelay|FileName=lelay.SchDoc|SymbolType=Normal|RawFileName=lelay.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=SheetSymbol|SourceDocument=tcpcontrol.SchDoc|Designator=U_output|SchDesignator=U_output|FileName=output.SchDoc|SymbolType=Normal|RawFileName=output.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=SheetSymbol|SourceDocument=tcpcontrol.SchDoc|Designator=U_Power|SchDesignator=U_Power|FileName=Power.SchDoc|SymbolType=Normal|RawFileName=Power.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
